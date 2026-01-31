@@ -4,10 +4,10 @@ Este repositorio contiene un inventario  y análisis resumido de una muestra de 
 llamada Apostle, asociada al grupo Agrius.
 
 ## Contenido
-- `inventario/hashes.txt`: hashes criptográficos de la muestra
-- `inventario/iocs.txt`: indicadores de compromiso conocidos
-- `inventario/analisis.txt`: resumen técnico del comportamiento
-- `informe_*.pdf`: documentación y análisis externo de referencia
+- `inventario/hashes.txt`: hashes de la muestra
+- `inventario/iocs.txt`: muestras del malware
+- `inventario/analisis.txt`: resumen  del comportamiento
+- `informe_*.pdf`: documentación y análisis 
 
 ## Fuentes
 - Apostle Ransomware Analysis – cyberpunkleigh.wordpress.com (2021)
