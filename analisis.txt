@@ -1,0 +1,5 @@
+La muestra analizada corresponde a Apostle, un malware asociado al grupo Agrius. Está desarrollado en .NET y emplea técnicas básicas de ofuscación, fácilmente revertibles mediante herramientas públicas como de4dot.
+
+El binario implementa mecanismos para garantizar ejecución única mediante un mutex global y contiene rutinas para la destrucción parcial de archivos, uso de cifrado RSA y borrado seguro. Además, modifica timestamps de los archivos a la fecha 2037-01-01 como posible indicador post-infección.
+
+La muestra también detiene servicios relacionados con bases de datos SQL antes de ejecutar el cifrado, con el objetivo de maximizar el impacto.
