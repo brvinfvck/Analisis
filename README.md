@@ -11,4 +11,5 @@ llamada Apostle, asociada al grupo Agrius.
 
 ## Fuentes
 - Apostle Ransomware Analysis – cyberpunkleigh.wordpress.com (2021)
+- https://vx-underground.org/samples.html
 - SentinelOne Labs
